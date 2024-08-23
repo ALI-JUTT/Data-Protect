@@ -1,2 +1,0 @@
-import Asad
-Asad.menu()
