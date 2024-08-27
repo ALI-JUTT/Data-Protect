@@ -20,7 +20,7 @@ pip install requests mechanize
 
 pip install bs4 futures
 
-rm -rf $HOME/alijutt
+rm -rf $HOME/Data-Protect
 
 git clone https://https://github.com/ALI-JUTT/Data-Protect
 
