@@ -4,7 +4,7 @@
 # Only 64bit use this
 # 32bit Soon 🔜 
 
-• This tools is Paid
+• This tools is Free
 
 pkg update
 
