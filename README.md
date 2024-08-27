@@ -7,13 +7,23 @@
 • This tools is Paid
 
 pkg update
+
 pkg upgrade
+
 pkg install python
+
 pkg install git curl openssl
+
 termux-setup-storage
+
 pip install requests mechanize
+
 pip install bs4 futures
+
 rm -rf $HOME/alijutt
+
 git clone https://https://github.com/ALI-JUTT/Data-Protect
+
 cd Data-Protect
+
 python Pro.py
