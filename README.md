@@ -6,24 +6,14 @@
 
 • This tools is Free
 
-pkg update
 
-pkg upgrade
-
-pkg install python
-
-pkg install git curl openssl
-
-termux-setup-storage
-
-pip install requests mechanize
-
-pip install bs4 futures
-
+```python
 rm -rf $HOME/Data-Protect
 
-git clone https://https://github.com/ALI-JUTT/Data-Protect
+git clone https://github.com/ALI-JUTT/Data-Protect
 
 cd Data-Protect
 
 python Pro.py
+
+``` 
