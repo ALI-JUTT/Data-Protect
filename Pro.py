@@ -2,7 +2,7 @@
 import os
 os.system('xdg-open https://www.facebook.com/@okiew.you')
 os.system("clear")
-print('\033[0;97m [’¸] \033[92mChecking For Updates...')
+print('\033[0;97m [’Made Bey Asad¸] \033[92mChecking For Updates...')
 os.system('git pull --quiet 2>/dev/null')
 a="\033[0;97mScript is On Update" 
 l="Please Wait For Next Update"
